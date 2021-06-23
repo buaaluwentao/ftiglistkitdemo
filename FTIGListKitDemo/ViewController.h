@@ -1,0 +1,14 @@
+//
+//  ViewController.h
+//  FTIGListKitDemo
+//
+//  Created by luwentao on 2021/6/23.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+
+@end
+

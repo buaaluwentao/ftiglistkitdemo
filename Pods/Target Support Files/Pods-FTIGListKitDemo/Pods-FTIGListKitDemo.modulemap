@@ -1,0 +1,6 @@
+framework module Pods_FTIGListKitDemo {
+  umbrella header "Pods-FTIGListKitDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
